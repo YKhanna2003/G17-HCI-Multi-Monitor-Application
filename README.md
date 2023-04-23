@@ -18,7 +18,17 @@
 1. Download, Install and Run GazePointer from [here](https://sourceforge.net/projects/gazepointer/)
 2. Calibrate GazePointer by following the instructions.
 3. Run requirements.txt.
+
+```bash
+pip install -r requirements.txt
+```
+
 4. Run the python script gazefunction.py.
+
+```bash
+python3 gazefunction.py
+```
+
 5. Code will track your gaze and you can control your desktop just by your eye movement.
 
 ### Key bindings
