@@ -30,6 +30,7 @@ python3 gazefunction.py
 ```
 
 5. Code will track your gaze and you can control your desktop just by your eye movement.
+To build upon the application you can use the data.xlsx file to study the Area of Interest location, Time Spent in AOI, HIT Ratio etc.
 
 ### Key bindings
 1. <kbd>Alt</kbd> + <kbd>w</kbd> Hold to Activate Window Relocation
