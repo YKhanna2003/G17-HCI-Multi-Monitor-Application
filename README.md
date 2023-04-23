@@ -17,7 +17,7 @@
 ### How to use
 1. Download, Install and Run GazePointer from [here](https://sourceforge.net/projects/gazepointer/)
 2. Calibrate GazePointer by following the instructions.
-3. Run requirements.txt.
+3. Run requirements.txt. For mouse functionality refer to the "mouse" Source Files in Main.
 
 ```bash
 pip install -r requirements.txt
